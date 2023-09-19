@@ -1,0 +1,43 @@
+.container, .main-container {
+    align-items: center;
+    display: flex;
+  }
+  
+  .main-container{
+    flex-direction: column;
+  }
+  
+  .horizontal-button, .vertical-button {
+    align-items: center;
+    background-color: #b8eded;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .horizontal-button {
+    height: 60px;
+    width: 500px;
+  }
+  
+  .vertical-button{
+    height: 500px;
+    width: 60px;
+  }
+  
+  .box{
+    height: 500px;
+    width: 500px;
+  }
+  
+  .square{
+    background-color: #b5dc36;
+    height: 50px;
+    position: relative;
+    width: 50px;
+  }
+  
+  
+  
+  
