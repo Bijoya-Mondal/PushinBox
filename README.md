@@ -1,3 +1,13 @@
+This is the first assignment task for internship from The Product Company.
+
+This is a react app containing a box enclosed by four buttons : 
+*Top
+*Left
+*Right
+*Bottom
+
+Pushing these buttons moves the box to the corresponding direction, till it reaches the boundary.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
