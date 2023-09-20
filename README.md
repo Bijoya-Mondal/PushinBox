@@ -8,6 +8,9 @@ This is a react app containing a box enclosed by four buttons :
 
 Pushing these buttons moves the box to the corresponding direction, till it reaches the boundary.
 
+This project is deployed on Netlify.
+Link : https://assignment1-pushing-box.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
